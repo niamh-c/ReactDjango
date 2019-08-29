@@ -1,0 +1,22 @@
+    [
+        {
+            "model": "api.email",
+            "pk": 1,
+            "fields": {
+                "name": "John",
+                "email": "john@gmail.com",
+                "message": "john's message",
+                "date_created": "2019-06-21 08:00:00"
+            }
+        },
+        {
+            "model": "api.email",
+            "pk": 2,
+            "fields": {
+                "name": "David",
+                "email": "david@gmail.com",
+                "message": "david's message",
+                "date_created": "2019-06-21 08:00:00"
+            }
+        }
+    ]
